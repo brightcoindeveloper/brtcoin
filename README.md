@@ -26,3 +26,7 @@ CLICK here :- https://bitcointalk.org/index.php?topic=2298017
 # Officieal website link
 
 CLICK here :- http://brtcoin.co/
+
+# Windows wallet
+
+CLICK here :- Coming soon...
