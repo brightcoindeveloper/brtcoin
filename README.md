@@ -18,3 +18,7 @@ Block reward :- 45 BRT
 
 POS :- 12% per year
 
+
+#BITCOINTALK FORUM link
+
+CLICK here :- https://bitcointalk.org/index.php?topic=2298017
