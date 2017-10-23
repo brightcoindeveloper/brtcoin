@@ -29,4 +29,4 @@ CLICK here :- http://brtcoin.co/
 
 # Windows wallet
 
-CLICK here :- Coming soon...
+CLICK here :-http://brtcoin.co/brightcoinwallet.zip
